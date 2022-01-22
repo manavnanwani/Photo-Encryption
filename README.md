@@ -1,19 +1,8 @@
-# Face-is-the-Key
+# Data Privacy Project
 
 ### Description
 
 Encrypt and Decrypt Files using Face Recognition.
-
-### TODO List
-
-1. -[x] ~~Use Caffe Model for Face Detection~~
-2. -[x] ~~Use OpenFace pretrained models for Face Recognition~~
-3. -[x] ~~Create a class to encrypt and decrypt files~~
-4. -[x] ~~Train SVM for classification~~
-5. -[x] ~~Combine all the different classes~~
-6. -[ ] Develop training scripts for Face Detection
-7. -[ ] Develop training scripts to create embeddings - ArcFace, VarGFaceNet
-8. -[ ] Safely store the Key
 
 ### Usage
 
